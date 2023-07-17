@@ -15,6 +15,7 @@ body {
   border-bottom: 1px solid;
   flex-direction: row;
   align-items: center;
+  color: black;
 }
 
 .addContainer {
